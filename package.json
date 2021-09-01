@@ -1,0 +1,19 @@
+{
+  "name": "rp",
+  "version": "1.0.0",
+  "description": "dashboard",
+  "main": "public/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfox123/dashboard-RP.git"
+  },
+  "author": "shagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfox123/dashboard-RP/issues"
+  },
+  "homepage": "https://github.com/sfox123/dashboard-RP#readme"
+}
