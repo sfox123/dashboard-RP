@@ -122,6 +122,10 @@ ul {
 .title__links {
   font-size: 1.3rem;
 }
+.toolbar__link {
+  color: #ccc;
+  text-decoration: none;
+}
 .footer__body > ul {
   place-items: center;
   display: grid;
